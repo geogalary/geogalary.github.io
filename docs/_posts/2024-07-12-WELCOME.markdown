@@ -1,8 +1,9 @@
+---
 layout: post
 title: "WELCOME"
 date: 2024-07-12 11:06:59 -0000
-categories: test
-
+categories: jekyll update
+---
 This is your new *vault*.
 
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
