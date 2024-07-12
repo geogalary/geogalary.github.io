@@ -1,1 +1,0 @@
-# geogalary.github.io
